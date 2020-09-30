@@ -1,0 +1,13 @@
+body {background-color: rgb(80, 229, 255);}
+h1{color: rgb(1, 5, 14);
+text-align: center;}
+h2{
+    color: rgb(17, 19, 131);
+}
+img{
+    width: 30%;
+    height: 50%;
+}
+#cats{
+    text-align: center;
+}
